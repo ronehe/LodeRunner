@@ -1,0 +1,1 @@
+target_include_directories (Lode_Runner PRIVATE ${CMAKE_CURRENT_LIST_DIR})
