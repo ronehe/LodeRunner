@@ -1,8 +1,8 @@
 README: PROJECT
 ==============================================
 Written by: 
-Ronen Heifetz, id: 316481423
-Oz Shurki, id:308015205
+Ronen Heifetz
+Oz Shurki
 
 
 GENERAL INFORMATION
